@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    background-image: url(c.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+header p {
+    background-color: rgb(40, 38, 38);
+    height: 50px;
+    font-family: anton;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.div1 h1 {
+    display: flex;
+    padding: 5px;
+    font-size: 100px;
+    font-family: anton;
+    width: 500px;
+    padding-left: 20px;
+    font-style: italic;
+}
+
+
+.div2  {
+    text-align: center;
+    padding-top: 220px;
+    padding-bottom: 20px;
+}
+
+.div2 button {
+    background-color: #F9EF23;
+    font-size: 20px;
+    font-family: anton;
+    border-radius: 0px;
+    padding: 16px 64px;
+}
+
+
+
+
+
+.div11 {
+    background-color: rgb(40, 38, 38);
+    padding-top: 10px;
+    font-family: anton;
+    padding-left: 50px;
+}
+
+.div11 h1 {
+    color: #F9EF23;
+    width: 400px;
+    font-size: 60px;
+    font-style: italic;
+}
+
+.div11 p {
+    text-align: start;
+    width: 300px;
+    font-size: 20px;
+}
+
+
+
+
+.div22 {
+    display: flex;
+    justify-content: right;
+    
+}
+
+
+
+.div33 {
+    margin-top: -400px;
+    padding-right: 100px;
+   
+}
+
+.div33 img {
+    width: 400px;
+    height: 400px;
+    
+}
+
+
+.div44 {
+    margin-top: -300px;
+    padding-right: 100px;
+}
+
+.div44 img {
+    width: 400px;
+    height: 400px;
+    padding-right: 20px;
+  
+}
+
+
+
+.parte3 {
+    background-color:  rgb(40, 38, 38);
+    border-top: 0.4px solid  rgb(58, 54, 54);
+    padding-top: 30px;
+}
+
+.parte3 h1 {
+    display: flex;
+    justify-content: center;
+    font-family: anton;
+    font-style: italic;
+    color: #F9EF23;
+    padding-bottom: 30px;
+    font-size: 60px;
+}
+
+
+.parte3 p {
+    display: flex;
+    justify-content: center;
+    font-family: anton;
+    font-style: italic;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+
+.fotos {
+    display: flex;
+    justify-content: center;
+}
+
+
+.foto {
+    position: relative;
+    margin-right: 90px;
+}
+
+.foto img {
+    height: 400px;
+}
+
+.frase {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translatex(-50%);
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: anton;
+    font-style: italic;
+}
+
+
+.fotos_antesedepois {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    justify-content: space-around;
+}
+
+.fotos_antesedepois img {
+    height: 200px;
+    width: 300px;
+  
+}
+
+.antes_e_depoisTexto {
+   display: flex;
+   justify-content: space-around;
+   background-color: #F9EF23;
+   border-bottom: 0.4px solid white
+   
+}
+
+
+.antes_e_depoisTexto p {
+    width: 200px;
+
+}
+
+
+.titulo {
+    background-image: url(argola_olimpica_ginastica_ultrawod_174_3_6be6f4f5f412b8b5a280abb02832fd6b.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 300px;
+}
+
+.titulo h1 {
+    font-family: anton;
+    font-size: 90px;
+    color: #F9EF23;
+    display: flex;
+    padding-top: 400px;
+    width: 600px;
+    font-style: italic;
+}
+
+
+.end_emai_tele {
+    background-color: #F9EF23;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    font-style: italic;
+    font-family: anton;
+    font-size: 30px;
+}
