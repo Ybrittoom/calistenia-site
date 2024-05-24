@@ -44,6 +44,7 @@ header p {
     font-family: anton;
     border-radius: 0px;
     padding: 16px 64px;
+    cursor: pointer;
 }
 
 
